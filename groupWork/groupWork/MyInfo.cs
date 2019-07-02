@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace groupWork
 {
-    public partial class Form1 : Form
+    public partial class MyInfo : Form
     {
-        public Form1()
+        public MyInfo()
         {
             InitializeComponent();
         }
